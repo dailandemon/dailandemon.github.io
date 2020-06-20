@@ -54,6 +54,9 @@
 - Home page has a log off button, once clicked it will send back to log in and clear the firebase user information.
 
 #### Database
+
+In this app I utilize the power of the Google Cloud Firestore Database for storage, it is a NoSQL database similar to MongoDB, which uses key-value pairs. The schema of the database is relatively simple. This Image is a representation of a test object in it.
+![Image](https://ibb.co/wWGVWnZ)
 	
 
 
