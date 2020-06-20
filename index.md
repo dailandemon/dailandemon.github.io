@@ -57,6 +57,14 @@
 
 In this app I utilize the power of the Google Cloud Firestore Database for storage, it is a NoSQL database similar to MongoDB, which uses key-value pairs. The schema of the database is relatively simple. This Image is a representation of a test object in it.
 ![Image](https://i.ibb.co/0M4TM0p/Capture0.png)
+
+Each document ID must be unique, you can specify them when creating a new document, but Firebase also generates it if you don’t provide a method to specify creation. The documents have inside several key values, they can be added or removed without having to worry about affecting the others, if the key matches the one in the program they can be used. 
+
+   In this application one does not have the ability to create new incident because is an administration app to check the submitted incidents so the create feature is not nether, I does on the other hand perform Read, Delete and Edit which the normal application cannot, it can only Create.
+	
+   There are several advantages on using this database, first is Security. Google gives many options regarding security and you have the ability to manage it however you like it from the cloud, the app has very limited access to the information it might access so nobody can break into it without breaking Googles security. The logical problem that might occur would be if some fields are null, although the original app has very specific rules regarding submission and it doesn’t submit null fields, problems might always arise, the administration app is covers null values reacting accordingly. Another good feature is that is compatible with all services from GCP so it can use Analytics for many different metrics and also Big Data tools.
+
+
 	
 
 
