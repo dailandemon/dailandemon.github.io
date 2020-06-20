@@ -66,6 +66,7 @@ Each document ID must be unique, you can specify them when creating a new docume
    There are several advantages on using this database, first is Security. Google gives many options regarding security and you have the ability to manage it however you like it from the cloud, the app has very limited access to the information it might access so nobody can break into it without breaking Googles security. The logical problem that might occur would be if some fields are null, although the original app has very specific rules regarding submission and it doesn’t submit null fields, problems might always arise, the administration app is covers null values reacting accordingly. Another good feature is that is compatible with all services from GCP so it can use Analytics for many different metrics and also Big Data tools.
 
 Code Review Video
-https://www.youtube.com/embed/M5UUCg261fU
+[Link](https://www.youtube.com/embed/M5UUCg261fU)
+
 
 	
