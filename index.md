@@ -65,42 +65,7 @@ Each document ID must be unique, you can specify them when creating a new docume
 	
    There are several advantages on using this database, first is Security. Google gives many options regarding security and you have the ability to manage it however you like it from the cloud, the app has very limited access to the information it might access so nobody can break into it without breaking Googles security. The logical problem that might occur would be if some fields are null, although the original app has very specific rules regarding submission and it doesn’t submit null fields, problems might always arise, the administration app is covers null values reacting accordingly. Another good feature is that is compatible with all services from GCP so it can use Analytics for many different metrics and also Big Data tools.
 
+Code Review Video
+https://www.youtube.com/embed/M5UUCg261fU
 
 	
-
-
-You can use the [editor on GitHub](https://github.com/dailandemon/dailandemon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Alvaro Castillo EPortfolio
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dailandemon/dailandemon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
