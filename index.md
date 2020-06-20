@@ -9,11 +9,12 @@
    During the middle of the Computer Science Program I started to have more complex classes, I learned several practices related to Databases with SQL and NoSQL with MongoDB. During the same time I came upon GCP(Google Cloud Platform) since my stepfather who is a developer started studying it and certificated himself in it, I saw the huge power and versatility of Cloud computing and development and started studying to also certify myself in GCP. Because of this I learned some network security, big data, and analytics. Also, in the Computer Science program I learned a bit of Python when making REST APIs for MongoDB.
 	
    Recently what I have interacted with a lot have been mobile and web development, I have been working making React JS components for web applications for a company and with Flutter and React Native for mobile applications as freelance. Also, the Computer Science program finale had a few android development classes where I got to practice more my Java skills and learn to use the native android language, but after using Flutter for a while and learning a lot of ways of making different things for mobile and web, I find the classes to be simple and outdated.
-	
-   The Artifact I plan to display ahead is one of the first Flutter apps I made, a simple administration app but in terms of ease of development compared to native Java the speed at which one can develop high quality apps with it is amazing, and the same codebase works in both iOS and Android with very little cost to performance which is a plus. In it I showcase this new technology and combine it with Firebase as backend, which is a NoSQL database similar to MongoDB that uses .json files for documents and also utilize the Authentication API of Firebase for managing access to the app and keep the information secure thanks to the Security Google provides.
-
-
+   
 ### Artifact
+	
+   The Artifact I plan to display ahead is one of the first Flutter apps I made, a simple incident administration app but in terms of ease of development compared to native Java the speed at which one can develop high quality apps with it is amazing, and the same codebase works in both iOS and Android with very little cost to performance which is a plus. The purpose of including this app in the Portfolio is because in it I showcase this new technology and combine it with Firebase as backend, which is a NoSQL database similar to MongoDB that uses .json files for documents and also utilize the Authentication API of Firebase for managing access to the app and keep the information secure thanks to the Security Google provides.
+   During  the creation of the app there was a few setbacks because is not something I had worked before, is different from the normal practices of Android Java, but still follows standard programing practices. It has a learning curve like everything but once you get past it, it becomes easy to use. Since is a relatively new technology there are not enough sources to study it, but the ones that exist are well documented and the Flutter documentation is very easy to understand.
+
 
 #### Software Design and Engineering
 
