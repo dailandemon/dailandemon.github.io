@@ -56,7 +56,7 @@
 #### Database
 
 In this app I utilize the power of the Google Cloud Firestore Database for storage, it is a NoSQL database similar to MongoDB, which uses key-value pairs. The schema of the database is relatively simple. This Image is a representation of a test object in it.
-![Image](https://ibb.co/wWGVWnZ)
+![Image](https://i.ibb.co/0M4TM0p/Capture0.png)
 	
 
 
